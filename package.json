@@ -1,0 +1,23 @@
+{
+  "name": "io.cordova.plugins.dialogs.test",
+  "version": "0.0.1",
+  "displayName": "Cordova Dialogs Plugin Test",
+  "cordova": {
+    "platforms": [
+      "ios",
+      "android"
+    ],
+    "plugins": {
+      "cordova-plugin-whitelist": {},
+      "cordova-plugin-dialogs": {}
+    }
+  },
+  "dependencies": {
+    "cordova-ios": "*",
+    "cordova-plugin-whitelist": "*",
+    "cordova-android": "*"
+  },
+  "devDependencies": {
+    "cordova-plugin-dialogs": "git+https://github.com/dpa99c/cordova-plugin-dialogs.git"
+  }
+}

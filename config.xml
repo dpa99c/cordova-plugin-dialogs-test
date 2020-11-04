@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="io.cordova.plugins.dialogs.test" version="0.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:android="http://schemas.android.com/apk/res/android" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+    <name>Cordova Dialogs Plugin Test</name>
+    <description>Cordova Dialogs Plugin Test</description>
+    <author email="dave@workingedge.co.uk">
+        Dave Alden
+    </author>
+    <content src="index.html" />
+    <access origin="*" />
+    <preference name="Fullscreen" value="false" />
+    <platform name="android"/>
+    <platform name="ios" />
+</widget>
